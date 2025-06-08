@@ -1,6 +1,6 @@
 # 🤖 Knight Bot
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+This is a WhatsApp bot built using the Baileys library for group management, featuring functions such as tagging all members, muting/unmuting, and more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
